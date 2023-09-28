@@ -22,11 +22,12 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![螢幕快照](https://github.com/CharisLai/InternetSpeedConverter/assets/103364394/b09b2beb-619e-42c8-932f-e6c0fe5d9dd7)
+
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Deploy on  Vercel](https://vercel.com/charislai/internet-speed-converter/HMSJ8Lz51KVXvjUXZ9uNpgyYHmcg)
 
 ## My process
 ### Built with
