@@ -34,7 +34,8 @@ const App = () => {
           <UnitControl />
           <UnitConverter />
         </div>
-        <CardFooter />
+        {/* Step1 傳入CardFooter的data 透過 key={value} 傳入 */}
+        <CardFooter inputValue={inputValue} />
       </div>
     </div>
   )
